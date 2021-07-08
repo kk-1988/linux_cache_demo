@@ -17,7 +17,7 @@ void *thread_func2(void  *param)
 {
     volatile int c;
     for(int i = 0;i < 1000000000; ++i)
-        c = x;
+        c = y;
 
         return NULL;
 }
